@@ -10,10 +10,6 @@ An Android application built in Java to manage a list of contacts. Users can add
 - ❌ Delete contacts from the list
 - 🧠 Persistent data storage using SQLite
 
-## Screenshots
-
-*Include screenshots here if available*
-
 ## Tech Stack
 
 - **Language**: Java
@@ -24,6 +20,10 @@ An Android application built in Java to manage a list of contacts. Users can add
 ## Project Structure
 
 ![Alt Text](https://github.com/DinukaRasanjana/My-Contact-App/blob/33699e08071d0318b777b051f2f01c224985d533/Screenshot%202025-06-03%20111121.png)
+
+## Screenshots
+
+*Include screenshots here if available*
 
 ## Installation
 
