@@ -23,6 +23,7 @@ An Android application built in Java to manage a list of contacts. Users can add
 
 ## Screenshots
 ![Alt Text](https://github.com/DinukaRasanjana/My-Contact-App/blob/48d650e375d446d331fee1d3e086a996ee52ede3/1.png)
+![Alt Text](https://github.com/DinukaRasanjana/My-Contact-App/blob/3a85cd0357950216be5f3bbe50c822e64cd4a77a/2.png).
 
 
 ## Installation
