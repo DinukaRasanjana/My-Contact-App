@@ -21,26 +21,6 @@ An Android application built in Java to manage a list of contacts. Users can add
 - **Database**: SQLite
 - **IDE**: Android Studio
 
-ContactManagerApp/
-├── app/
-│   ├── src/
-│   │   └── main/
-│   │       ├── java/
-│   │       │   └── com/
-│   │       │       └── example/
-│   │       │           └── contactapp/
-│   │       │               ├── MainActivity.java         # Main screen with contact list and operations
-│   │       │               ├── DBHelper.java             # SQLite database helper class
-│   │       │               └── ContactAdapter.java       # Custom adapter to display contacts in ListView
-│   │       ├── res/
-│   │       │   ├── layout/
-│   │       │   │   ├── activity_main.xml                # UI layout for main activity
-│   │       │   │   └── list_item.xml                    # Layout for each contact item in the list
-│   │       │   └── values/
-│   │       │       └── strings.xml                      # String resources
-│   │       └── AndroidManifest.xml                      # App manifest file
-├── build.gradle                                          # Project-level build file
-└── README.md                                             # Project documentation
 
 
 
