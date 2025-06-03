@@ -30,6 +30,6 @@ An Android application built in Java to manage a list of contacts. Users can add
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/contact-manager-app.git
+   git clone https://github.com/DinukaRasanjana/contact-manager-app.git
 
 
