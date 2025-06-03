@@ -21,14 +21,6 @@ An Android application built in Java to manage a list of contacts. Users can add
 - **Database**: SQLite
 - **IDE**: Android Studio
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/contact-manager-app.git
-
-
 ContactManagerApp/
 ├── app/
 │   ├── java/
@@ -44,3 +36,13 @@ ContactManagerApp/
 │           └── strings.xml
 ├── AndroidManifest.xml
 └── build.gradle
+
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/contact-manager-app.git
+
+
