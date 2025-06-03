@@ -1,0 +1,39 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:background="@drawable/img_1">
+    <Button
+        android:id="@+id/btnAddContact"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="16dp"
+        android:text="Add Contact"
+        android:textStyle="bold"
+        android:backgroundTint="#0E0E14"
+        android:padding="10dp"
+        android:textColor="#FFFCFC"
+        />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_below="@+id/btnAddContact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contact list"
+        android:textSize="35sp"
+        android:layout_marginTop="30dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/textView"
+        android:layout_marginTop="33dp"
+        android:clipToPadding="false"
+        android:padding="8dp" />
+
+</RelativeLayout>
